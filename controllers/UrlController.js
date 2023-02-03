@@ -1,5 +1,4 @@
 const shortId = require("shortid");
-
 const urlModel = require("../models/UrlModel.js");
 
 const createUrl = async (req, res) => {
